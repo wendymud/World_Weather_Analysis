@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-The objective of this exercise was to conduct three separate analyses on to provide:
+The objective of this exercise was to conduct three separate analyses:
 
 - Retreive Weather Data
     To visualize cities around the globe to display certain temperatures, heat maps, winds speeds, etc.
